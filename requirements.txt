@@ -1,0 +1,5 @@
+easygui
+SpeechRecognition
+pillow
+numpy
+PyAudio
